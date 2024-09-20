@@ -84,4 +84,4 @@ Este guia fornece instruções básicas para instalar e configurar o Git, criar 
      ```
 ##Sobre Azure
 
-1. **Neste topipo apendi sobre, escalabiliade, elasticidade, seguraçã, governançã no azure
+1. **Neste topipo apendi sobre, escalabiliade, elasticidade, seguraça, governança no azure
