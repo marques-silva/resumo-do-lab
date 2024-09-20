@@ -85,3 +85,10 @@ Este guia fornece instruções básicas para instalar e configurar o Git, criar 
 ##Sobre Azure
 
 1. **Neste tópico apendi sobre, escalabilidade, elasticidade, segurança, governança no Azure.
+2. **Foi estudado sobre modelos de nuvem Iaas, Paas E Saas
+
+   1. IaaS (Infrastructure as a Service): Fornece infraestrutura de TI virtualizada, como servidores, redes, armazenamento e sistemas operacionais. As empresas têm controle total sobre a infraestrutura, mas o provedor cuida do hardware subjacente. Exemplo: Amazon Web Services (AWS) EC2.
+
+   2. PaaS (Platform as a Service): Oferece uma plataforma que permite aos desenvolvedores criar, gerenciar e implantar aplicativos sem se preocupar com a infraestrutura. A infraestrutura subjacente e o sistema operacional são gerenciados pelo provedor. Exemplo: Google App Engine, Microsoft Azure.
+
+   3. SaaS (Software as a Service): O software é entregue via internet e é totalmente gerenciado pelo provedor. Os usuários não precisam se preocupar com a manutenção, infraestrutura ou desenvolvimento do software, apenas utilizam a aplicação. Exemplo: Google Workspace, Microsoft 365.
