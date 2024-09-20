@@ -82,4 +82,6 @@ Este guia fornece instruções básicas para instalar e configurar o Git, criar 
      git commit -m "Descrição das alterações"
      git push
      ```
+##Sobre Azure
 
+1. **Neste topipo apendi sobre, escalabiliade, elasticidade, seguraçã, governançã no azure
