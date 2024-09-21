@@ -82,7 +82,7 @@ Este guia fornece instruções básicas para instalar e configurar o Git, criar 
      git commit -m "Descrição das alterações"
      git push
      ```
-##Sobre Azure
+# Sobre Azure
 
 1. **Neste tópico apendi sobre, escalabilidade, elasticidade, segurança, governança no Azure.
 2. **Foi estudado sobre modelos de nuvem Iaas, Paas E Saas
@@ -92,3 +92,35 @@ Este guia fornece instruções básicas para instalar e configurar o Git, criar 
    2. PaaS (Platform as a Service): Oferece uma plataforma que permite aos desenvolvedores criar, gerenciar e implantar aplicativos sem se preocupar com a infraestrutura. A infraestrutura subjacente e o sistema operacional são gerenciados pelo provedor. Exemplo: Google App Engine, Microsoft Azure.
 
    3. SaaS (Software as a Service): O software é entregue via internet e é totalmente gerenciado pelo provedor. Os usuários não precisam se preocupar com a manutenção, infraestrutura ou desenvolvimento do software, apenas utilizam a aplicação. Exemplo: Google Workspace, Microsoft 365.
+  
+# Módulo 2: Componentes de Arquitetura do Azure
+
+## Tópicos abordados
+
+- **Regiões e Zonas de Disponibilidade**
+  - Distribuição geográfica dos datacenters do Azure para garantir alta disponibilidade e recuperação de desastres.
+
+- **Assinaturas e Grupos de Recursos**
+  - Organização de recursos em grupos para melhor gerenciamento e controle de custos.
+
+- **Datacenters do Azure**
+  - Infraestrutura global que suporta os serviços do Azure, com foco em resiliência e segurança.
+
+- **Assinaturas**
+  - Modelos de contratação e faturamento que permitem o uso de diferentes serviços na plataforma Azure.
+
+- **Grupos de Gerenciamento**
+  - Estrutura hierárquica que facilita o gerenciamento de várias assinaturas, agrupando-as de acordo com a necessidade de controle e governança.
+
+- **Hierarquia de Grupos de Recursos, Assinaturas e Grupos de Gerenciamento**
+  - Organização lógica que define como os recursos são alocados, gerenciados e monitorados no ambiente Azure.
+
+- **Regiões Soberanas do Azure**
+  - Regiões específicas que atendem a requisitos de conformidade e soberania de dados em diferentes países e regiões.
+
+## Atividades Práticas
+
+- Criação de um **Grupo de Recursos**.
+- Configuração de uma **Rede Virtual**.
+
+
