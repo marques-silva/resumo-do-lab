@@ -208,3 +208,71 @@ O ExpressRoute estende as redes locais para o Azure por meio de uma conexão pri
 - Redes virtuais personalizáveis permitem que você use nomes de domínio privados e totalmente personalizados em suas redes virtuais privadas.
 - Os registros de alias dão suporte a conjuntos de registros de alias para apontar diretamente para um recurso do Azure.
 
+
+# Armazenamento
+
+- Serviços de armazenamento
+- Opções de redundância
+- Gerenciamento e migração de arquivos
+
+# Contas de Armazenamento
+
+- Deve ter um nome globalmente exclusivo.
+- Fornecer acesso à Internet em todo o mundo.
+- Determinar os serviços de armazenamento e as opções de redundância.
+
+# Redundância de armazenamento
+| Configuração de redeundância | Implantação | Durabilidade |
+| --- | --- | --- |
+| LRS (Armazenamento com redundância local) | Datacenter individual na Região primária | 11 noves |
+| ZRS (Armazenamento com redundância de zona) | Três zonas de disponibilidade na regiâo primária | 12 noves |
+| GRS (Armazenamento com redundância geográfica) | Datacenter único no primário e região secundária | 16 noves |
+| GZRS (Armazenamento com redundância de zona geográfica) | Três zonas de disponibilidade na região primária e um único datacenter na região secundária | 16 noves |
+
+# Serviços de armazenamento do Azure
+
+- **Blob do Azure**: otimizado para o armazenamento de quantidades massivas de dados não estruturados, como texto ou dados binários.
+- **Disco do Azure**: fornece discos para máquinas virtuais, aplicativos e outros serviços acessarem e utilizarem.
+- **Fila do Azure**: serviço de armazenamento de mensagens que fornece armazenamento e recuperação para grandes quantidades de mensagens, cada uma com até 64 KB.
+- **Arquivos do Azure**: configura um compartilhamento de arquivos de rede altamente disponível que pode ser utilizado usando o protocolo Bloco de Mensagens do Servidor.
+- **Tabelas do Azure**: fornece uma opção de chave/atributo para o armazenamento de dados estruturados não relacionais com um design sem esquema.
+
+# Pontos de extremidade públicos do serviço de armazenamento
+
+- Slide 15
+
+# Camadas de acesso de armazenamento do Azure
+
+- Slide 16
+
+# Migrações para o Azure
+
+## Azure Data Box
+
+- Armazenar até 80 terabytes de dados.
+- Mova os backups de recuperação de desastre para o Azure.
+- Proteja seus dados em uma caixa robusta durante o trânsito.
+- Migre dados do Azure para conformidade ou necessidades regulatórias.
+- Migre dados para o Azure de locais remotos com conectividade limitada ou sem conectividade.
+
+- Imagem 21
+
+# Opções de gerenciamento de arquivos
+
+## AzCopy
+
+- Utilitário de linha de comando.
+- Copiar blobs ou arquivos de ou para sua conta de armazenamento.
+- Sincronização em uma direção.
+
+## Gerenciador de Armazenamento do Azure
+
+- Interface gráfica do usuário (de modo semelhante ao Windows Explorer).
+- Compatível com Windows, MacOS e Linux.
+
+## Sincronização de Arquivos do Azure
+
+- Sincroniza os arquivos do Azure e locais de forma bidirecional.
+- A camada de nuvem mantém os arquivos acessados com frequência no local, enquanto libera espaço.
+
+
