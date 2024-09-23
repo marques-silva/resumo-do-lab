@@ -239,11 +239,14 @@ O ExpressRoute estende as redes locais para o Azure por meio de uma conexão pri
 
 # Pontos de extremidade públicos do serviço de armazenamento
 
-- Slide 15
+
+![image](https://github.com/user-attachments/assets/b8f5a46e-67ea-4a6d-8233-cb90046d5d57)
+
 
 # Camadas de acesso de armazenamento do Azure
 
-- Slide 16
+![image](https://github.com/user-attachments/assets/030426ac-31ca-4ef4-bb0f-52d4989808f1)
+
 
 # Migrações para o Azure
 
@@ -255,7 +258,8 @@ O ExpressRoute estende as redes locais para o Azure por meio de uma conexão pri
 - Migre dados do Azure para conformidade ou necessidades regulatórias.
 - Migre dados para o Azure de locais remotos com conectividade limitada ou sem conectividade.
 
-- Imagem 21
+![image](https://github.com/user-attachments/assets/ff4abaea-ab35-43e1-8e75-b5d91d5a295a)
+
 
 # Opções de gerenciamento de arquivos
 
