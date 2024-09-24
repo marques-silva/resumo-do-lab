@@ -280,3 +280,85 @@ O ExpressRoute estende as redes locais para o Azure por meio de uma conexão pri
 - A camada de nuvem mantém os arquivos acessados com frequência no local, enquanto libera espaço.
 
 
+# ID do Microsoft Entra
+
+- O Microsoft Entra ID é o serviço de gerenciamento de identidades e acesso baseado em nuvem do Microsoft Azure.
+- Autenticação (os funcionários entram para acessar os recursos).
+- Logon único (SSO).
+- Gerenciamento de aplicativos.
+- Negócios para Negócios (B2B).
+- Gerenciamento de dispositivos.
+
+# Comparar a autenticação e autorização
+
+## Autenticação
+- Identifica a pessoa ou serviço buscando acesso a um recurso.
+- Solicita credenciais de acesso legítimo.
+- Base para criar princípios de identidade e controle de acesso seguros.
+
+## Autorização
+- Determina o nível de acesso de uma pessoa ou serviço autenticado.
+- Define quais dados eles podem acessar e o que podem fazer com eles.
+
+# Autenticação multifator
+
+- Fornece segurança adicional para as identidades, exigindo dois ou mais elementos para autenticação completa.
+
+**Algo que você sabe** ⇔ **Algo que você possui** ⇔ **Algo que você é**
+
+![image](https://github.com/user-attachments/assets/d89f546c-69c1-4bf2-8d95-9eb756350ed3)
+
+
+# B2B do Microsoft Entra External ID
+![image](https://github.com/user-attachments/assets/7ba7b12e-b7bd-49a2-9f7c-e8259bd3e3b2)
+
+
+# B2C do Identidades Externas do Azure AD
+![image](https://github.com/user-attachments/assets/8f75197e-8500-4a7d-a83c-8484f9a498c7)
+
+
+# Acesso Condicional
+
+- O Acesso Condicional é utilizado para reunir sinais, tomar decisões e impor políticas organizacionais.
+
+![image](https://github.com/user-attachments/assets/f69f25bf-8733-4025-9db8-954d013181a8)
+
+
+- Associação de usuário ou grupo.
+- Local do IP.
+- Dispositivo.
+- Aplicativo.
+- Detecção de risco.
+
+# Controle de acesso baseado em função
+
+- Gerenciamento de acesso de granularidade fina.
+- Divida as tarefas dentro da equipe e conceda somente a quantidade de acesso de que os usuários precisam para trabalhar.
+- Habilite o acesso ao portal do Azure e o controle de acesso aos recursos.
+
+![image](https://github.com/user-attachments/assets/660f7d3c-c38f-41ca-84e2-eea879f50012)
+
+
+# Confiança Zero
+![image](https://github.com/user-attachments/assets/25ca1283-a6c1-497a-bebb-d399b2fecdf2)
+
+
+# Proteção completa
+![image](https://github.com/user-attachments/assets/3a53c96a-36a5-420f-9f37-168cec5e38f8)
+
+
+- Uma abordagem em camadas para proteger sistemas de computador.
+- Fornece vários níveis de proteção.
+- Ataques contra uma camada são isolados das camadas subsequentes.
+
+# Microsoft Defender para Nuvem
+
+- O Microsoft Defender para Nuvem é um serviço de monitoramento que fornece proteção contra ameaças nos datacenters do Azure e locais.
+
+### Recursos do Azure:
+- Fornece recomendações de segurança.
+- Detectar e bloquear malware.
+- Analisar e identificar ataques potenciais.
+- Controle de acesso just-in-time para portas.
+
+
