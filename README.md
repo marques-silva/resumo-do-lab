@@ -362,3 +362,58 @@ O ExpressRoute estende as redes locais para o Azure por meio de uma conexão pri
 - Controle de acesso just-in-time para portas.
 
 
+# Gerenciamento de Custos
+
+## Fatores que afetam os custos
+
+1. **Tipo de recurso:**  
+   Os custos são específicos do recurso, portanto, o uso que um medidor rastreia e o número de medidores associados a um recurso, dependendo do tipo de recurso.
+   
+2. **Consumo:**  
+   Com um modelo pago conforme o uso, o consumo é um dos maiores geradores de custos.
+
+3. **Manutenção:**  
+   Monitorar seu volume do Azure e manter seu ambiente pode ajudá-lo a identificar e reduzir os custos que não são necessários, como ao desligar máquinas virtuais subutilizadas.
+
+4. **Área geográfica:**  
+   O mesmo tipo de recurso pode custar valores diferentes dependendo da área geográfica, o que afeta os custos do Azure.
+
+5. **Tráfego de rede:**  
+   Embora algumas transferências de dados de entrada sejam gratuitas, o custo para dados de saída ou dados entre recursos do Azure é afetado por zonas de cobrança.
+
+6. **Assinatura:**  
+   O tipo e a configuração da assinatura também podem afetar o custo. Por exemplo, a avaliação gratuita permite explorar alguns recursos do Azure gratuitamente.
+
+# Explorar o Azure Marketplace
+
+O Azure Marketplace permite que os clientes encontrem, experimentem, comprem e provisionem aplicativos e serviços de centenas de provedores de serviços líderes, que são todos certificados para execução no Azure.
+
+- Plataformas de contêiner de software livre.
+- Imagens da máquina virtual e do banco de dados.
+- Software de compilação e implantação de aplicativos.
+- Ferramentas para desenvolvedores.
+- E muito mais, com mais de 10.000 itens listados!
+
+# Calculadora de preços
+
+A calculadora de preços é uma ferramenta que ajuda a estimar o custo dos produtos do Azure. As opções que você pode configurar na calculadora de preços variam entre os produtos, mas as opções básicas de configuração incluem:
+
+- Região
+- Camada
+- Opções de cobrança
+- Opções de suporte
+- Programas e ofertas
+- Preço de Desenvolvimento/Teste do Azure
+
+# Calculadora de custo total de propriedade (TCO)
+
+- Uma ferramenta para estimar a economia de custos possível ao migrar para o Azure.
+- Um relatório compara os custos das infraestruturas locais com os custos de uso de produtos e serviços do Azure na nuvem.
+
+# Marcas
+
+- Fornecem metadados aos recursos do Azure. 
+- Organizam os recursos em uma taxonomia de maneira lógica. 
+- Consistem em um par nome-valor.
+- Muito úteis para reunir informações de cobrança.
+
