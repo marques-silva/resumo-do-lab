@@ -458,3 +458,43 @@ O Microsoft Purview é uma família de soluções de governança, risco e confor
 - Classificação de dados confidenciais
 - Linhagem de dados de ponta a ponta
 
+# Ferramentas de implantação de recursos
+
+## Ferramentas para interagir com o Azure
+![image](https://github.com/user-attachments/assets/7cb5a444-eda4-443e-9fc1-6ffa14fa09fd)
+
+
+## Azure Arc
+![image](https://github.com/user-attachments/assets/dd7b464a-c6ee-44b6-90ce-cee66e47bd7c)
+
+
+## Azure Resource Manager
+O ARM (Azure Resource Manager) fornece uma camada de gerenciamento que permite criar, atualizar e excluir recursos na assinatura do Azure.
+
+![image](https://github.com/user-attachments/assets/3963ce5b-6b3b-4327-9522-4c818446d202)
+
+
+## Infraestrutura como código
+- Garanta consistência na implantação em todo o ecossistema de nuvem.
+- Gerencie a configuração em escala.
+- Provisione rapidamente ambientes adicionais com base em uma configuração e um build padrão.
+
+![image](https://github.com/user-attachments/assets/2009cec3-734c-4ac0-89ff-ec148b58009a)
+
+
+## Modelos do ARM (Azure Resource Manager)
+- Os modelos do ARM (Azure Resource Manager) são arquivos JSON (JavaScript Object Notation) que podem ser usados para criar e implantar a infraestrutura do Azure sem a necessidade de escrever comandos de programação.
+- Sintaxe declarativa
+- Resultados repetíveis
+- Orquestração
+- Arquivos modulares
+- Validação integrada
+- Código exportável
+
+![image](https://github.com/user-attachments/assets/58df15b3-4839-49be-87bd-2198c1000147)
+
+
+## Bicep (linguagem Microsoft)
+![image](https://github.com/user-attachments/assets/5c7274f0-bbe3-4489-a806-040cdcb73cbc)
+
+
