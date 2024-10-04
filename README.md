@@ -497,4 +497,41 @@ O ARM (Azure Resource Manager) fornece uma camada de gerenciamento que permite c
 ## Bicep (linguagem Microsoft)
 ![image](https://github.com/user-attachments/assets/5c7274f0-bbe3-4489-a806-040cdcb73cbc)
 
+# Assistente do Azure
+
+- O Assistente do Azure analisa recursos implantados do Azure e faz recomendações com base nas práticas recomendadas para otimizar as implantações do Azure.
+
+## Áreas de Otimização
+
+- **Confiabilidade**
+- **Segurança**
+- **Desempenho**
+- **Custo**
+- **Excelência operacional**
+
+![image](https://github.com/user-attachments/assets/4ef6d6d5-4cce-4f75-b2ea-94d6a63c7848)
+
+
+### Integridade do Serviço do Azure
+
+A Integridade do Serviço do Azure é uma coleção de serviços que mantêm você informado sobre:
+
+- O status geral do Azure.
+- O status de serviços que podem afetar você.
+- O status de recursos específicos que estão afetando você.
+
+#### Componentes
+
+- **Status do Azure**: visão global da integridade de todos os serviços do Azure em todas as regiões do Azure.
+- **Integridade do Serviço**: exibição focada apenas nos serviços e regiões que você está utilizando. Se um serviço estiver enfrentando problemas em uma região que você não está usando, ele não aparecerá aqui.
+- **Resource Health**: exibição personalizada dos recursos reais do Azure, fornecendo informações sobre a integridade dos seus recursos de nuvem individuais.
+
+
+# Azure Monitor
+
+O Azure Monitor maximiza a disponibilidade e o desempenho de aplicativos e serviços ao:
+
+- Coletar
+- Analisar
+- Tomar decisões com base na telemetria da nuvem e de ambientes locais.
 
